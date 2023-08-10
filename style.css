@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blueviolet;
+}
+.btn1{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(233, 255, 151);
+    margin: auto;
+    margin-top: 80px;
+    border-bottom-left-radius:0 ;
+    border-bottom-right-radius:0 ;
+    border-top-left-radius:50px ;
+    border-top-right-radius: 50px;
+}
+.btn2{
+    width: 80px;
+    height: 80px;
+    left: 222px;
+position: absolute;
+    background-color: rgb(233, 255, 151);
+    border-bottom-left-radius:50px;
+    border-bottom-right-radius:50px ;
+    border-top-left-radius:0 ;
+    border-top-right-radius: 0;
+}
+.btn3{
+    width: 80px;
+    height: 80px;
+    left: 381px;
+position: absolute;
+    background-color: rgb(233, 255, 151);
+    border-bottom-left-radius:50px;
+    border-bottom-right-radius:50px ;
+    border-top-left-radius:0 ;
+    border-top-right-radius: 0;
+}
